@@ -33,10 +33,9 @@ The **Google Drive Excel Uploader** script simplifies the process of uploading E
 
 Consider a scenario where you regularly need to upload Excel files to a specific folder in your Google Drive. Instead of manually performing this task, the Google Drive Excel Uploader automates the process, saving you time and ensuring your files are consistently organized in your Google Drive.
 
-**Author:** César Rodríguez
-
 ## Version Information
 
+- **Author:** César Rodríguez
 - **Date:** 06/10/2023
 - **Version:** 1.0.0
 
